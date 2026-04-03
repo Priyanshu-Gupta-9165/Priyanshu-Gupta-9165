@@ -3,12 +3,22 @@
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- 🌊 ANIMATED GRADIENT HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Priyanshu%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=🚀%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=ffffff&descAlignY=55&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Priyanshu%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=ffffff&descAlignY=55&animation=twinkling" />
+
+
+
+
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello+World!;I'm+Priyanshu-Gupta-9165;Welcome+to+my+Profile!)
+
+
+
 
 
 <!-- ✨ ANIMATED TYPING -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&background=1E1E1E00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&background=1E1E1E00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 <!-- 🏷️ PROFILE BADGES ROW -->
@@ -32,30 +42,28 @@
 <!-- 🎭 ANIMATED DIVIDER                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 👤 ABOUT ME                                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```yaml
-name: Priyanshu Gupta
-role: AI & Web Developer
-location: India 🇮🇳
-education: Computer Science Student
-currently_building: AI-Powered Applications
-seeking: Open Source Collaborations
-hobbies: ["Coding", "Problem Solving", "Learning New Tech"]
-fun_fact: "I automate everything I do more than twice! 🤖"
-```
+- **Name:**  *Priyanshu Gupta*
+- **Role:**  *AI & Web Developer*
+- **Location:**  *India 🇮🇳*
+- **Education:**  *Computer Science Student*
+- **Currently_building:**  *AI-Powered Applications**
+- **Seeking:**  *Open Source Collaborations**
+- **Hobbies:**  *["Coding", "Problem Solving", "Learning New Tech"]**
+- **Fun_fact:**  *"I automate everything I do more than twice! 🤖"*
+
 
 <br clear="both"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ⚡ WHAT I DO                                                               -->
@@ -76,7 +84,7 @@ fun_fact: "I automate everything I do more than twice! 🤖"
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🛠️ TECH STACK                                                              -->
@@ -121,7 +129,7 @@ fun_fact: "I automate everything I do more than twice! 🤖"
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB STATS                                                            -->
@@ -131,31 +139,26 @@ fun_fact: "I automate everything I do more than twice! 🤖"
 
 <div align="center">
 
-<!-- STATS + STREAK SIDE BY SIDE -->
-<a href="https://github.com/Priyanshu-Gupta-9165">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Priyanshu-Gupta-9165&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9&ring_color=f85d7f&count_private=true" />
-</a>
-<a href="https://github.com/Priyanshu-Gupta-9165">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Priyanshu-Gupta-9165&theme=radical&hide_border=true&background=0d1117&stroke=f85d7f&ring=f85d7f&fire=f8d866&currStreakLabel=f85d7f&sideLabels=c9d1d9&currStreakNum=f8d866&dates=8b949e" />
+![Stats Card 6](https://github-stats-alpha.vercel.app/api/?username=Priyanshu-Gupta-9165)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-Gupta-9165&theme=dayfox)](https://git.io/streak-stats)
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- TOP LANGUAGES -->
-<a href="https://github.com/Priyanshu-Gupta-9165">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priyanshu-Gupta-9165&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&text_color=c9d1d9&langs_count=10" />
+<img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu-Gupta-9165&theme=transparent"/>
+<img height="250em" src="https://leetcard.jacoblin.cool/Mayur-Pagote?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=1&radius=15"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- 📈 ACTIVITY GRAPH -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Gupta-9165&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&area_color=f85d7f&hide_border=true&custom_title=📈%20Priyanshu's%20Contribution%20Activity" />
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Gupta-9165&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🏆 TROPHIES                                                                -->
@@ -183,7 +186,7 @@ fun_fact: "I automate everything I do more than twice! 🤖"
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🚀 FEATURED PROJECTS                                                       -->
@@ -222,7 +225,7 @@ fun_fact: "I automate everything I do more than twice! 🤖"
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎵 NOW PLAYING - SPOTIFY/CODING VIBES                                      -->
@@ -245,7 +248,7 @@ fun_fact: "I automate everything I do more than twice! 🤖"
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📬 CONNECT WITH ME                                                         -->
@@ -275,19 +278,9 @@ fun_fact: "I automate everything I do more than twice! 🤖"
 
 <!-- 💬 RANDOM DEV QUOTE -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img height="250em" src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=churchill&font=Gabrielle&animation=grow_out_in"/>
 </div>
 
-<br/>
-
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshu-Gupta-9165/Priyanshu-Gupta-9165/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshu-Gupta-9165/Priyanshu-Gupta-9165/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Priyanshu-Gupta-9165/Priyanshu-Gupta-9165/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
 <br/>
 
@@ -297,7 +290,7 @@ fun_fact: "I automate everything I do more than twice! 🤖"
 <!-- SECRET SECTION -->
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-f85d7f?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Made%20with-Priyanshu Gupta❤️%20%26%20☕-f85d7f?style=for-the-badge&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-f8d866?style=for-the-badge&labelColor=1a1b27" />
   
   <br/><br/>
