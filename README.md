@@ -7,18 +7,13 @@
 
 
 
-
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello+World!;I'm+Priyanshu-Gupta-9165;Welcome+to+my+Profile!)
-
-
-
-
-
 <!-- ✨ ANIMATED TYPING -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&background=1E1E1E00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+
+ <div align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=50000&color=F75C7E&background=1E1E1E00&center=true&vCenter=true&width=700&lines=Hello+I+am+Priyanshu+Gupta+Welcome!+to+My+GitHub+Profile" alt="Typing SVG" />
+   </div>
+   <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fruktur&pause=1000&color=763EAB&background=1E1E1E00&center=true&vCenter=true&width=435&lines=Computer+Science+Engineer;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Founder+Mindset;Building+CodeSensei;Turning+Ideas+into+Reality;Code.+Build.+Innovate.;Machine+Learning+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 <!-- 🏷️ PROFILE BADGES ROW -->
@@ -66,6 +61,81 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> GitHub Analytics
+
+<div align="center">
+
+![Stats Card 6](https://github-stats-alpha.vercel.app/api/?username=Priyanshu-Gupta-9165)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-Gupta-9165&theme=dayfox)](https://git.io/streak-stats)
+</a>
+
+<br/>
+
+<!-- TOP LANGUAGES -->
+<img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu-Gupta-9165&theme=transparent"/>
+<img height="250em" src="https://leetcard.jacoblin.cool/4qtyRRYBOa?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=0&radius=15"/>
+</a>
+
+<br/>
+
+<!-- 📈 ACTIVITY GRAPH -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Gupta-9165&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH STACK                                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,typescript,cpp,java&theme=dark" />
+</p>
+
+### ⚡ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" />
+</p>
+
+### 🧠 AI / ML & Data Science
+<p>
+  
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws,docker&theme=dark" />
+</p>
+
+### 🔧 Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" />
+</p>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- ⚡ WHAT I DO                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -84,79 +154,6 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK                                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
-
-<div align="center">
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css&theme=dark" />
-</p>
-
-### ⚡ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" />
-</p>
-
-### 🧠 AI / ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws,docker&theme=dark" />
-</p>
-
-### 🔧 Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
-</p>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS                                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> GitHub Analytics
-
-<div align="center">
-
-![Stats Card 6](https://github-stats-alpha.vercel.app/api/?username=Priyanshu-Gupta-9165)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-Gupta-9165&theme=dayfox)](https://git.io/streak-stats)
-</a>
-
-<br/>
-
-<!-- TOP LANGUAGES -->
-<img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu-Gupta-9165&theme=transparent"/>
-<img height="250em" src="https://leetcard.jacoblin.cool/Mayur-Pagote?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=1&radius=15"/>
-</a>
-
-<br/>
-
-<!-- 📈 ACTIVITY GRAPH -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Gupta-9165&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
-</div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
