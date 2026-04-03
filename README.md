@@ -1,76 +1,311 @@
-<h1 align="center">Hi there, I'm Priyanshu! 👋</h1>
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║  🎨 PRIYANSHU GUPTA — The Ultimate GitHub Profile                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
+<!-- 🌊 ANIMATED GRADIENT HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Priyanshu%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=32&desc=🚀%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descColor=ffffff&descAlignY=55&animation=twinkling" />
+
+
+<!-- ✨ ANIMATED TYPING -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&background=1E1E1E00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<!-- 🏷️ PROFILE BADGES ROW -->
+<div align="center">
   <a href="https://github.com/Priyanshu-Gupta-9165">
-    <img src="https://komarev.com/ghpvc/?username=Priyanshu-Gupta-9165&label=Profile%20Views&color=007BFF&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Priyanshu-Gupta-9165&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
   </a>
+  &nbsp;
+  <a href="https://github.com/Priyanshu-Gupta-9165?tab=followers">
+    <img src="https://img.shields.io/github/followers/Priyanshu-Gupta-9165?label=Followers&style=for-the-badge&color=ff6e96&labelColor=1a1b27&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Priyanshu-Gupta-9165?tab=stars">
+    <img src="https://img.shields.io/github/stars/Priyanshu-Gupta-9165?label=Stars&style=for-the-badge&color=f5a623&labelColor=1a1b27&logo=github" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎭 ANIMATED DIVIDER                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+```yaml
+name: Priyanshu Gupta
+role: AI & Web Developer
+location: India 🇮🇳
+education: Computer Science Student
+currently_building: AI-Powered Applications
+seeking: Open Source Collaborations
+hobbies: ["Coding", "Problem Solving", "Learning New Tech"]
+fun_fact: "I automate everything I do more than twice! 🤖"
+```
+
+<br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ⚡ WHAT I DO                                                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> What I Do
+
+<div align="center">
+
+| 🤖 AI / Machine Learning | 🌐 Web Development | 🛠️ Tools & Automation |
+|:---:|:---:|:---:|
+| Building intelligent systems | Modern full-stack apps | Dev tools & scripts |
+| NLP & Computer Vision | React, Next.js, Node.js | Chrome Extensions |
+| Data Analysis & Viz | REST APIs & Databases | CI/CD Pipelines |
+| Prompt Engineering | UI/UX Design | Workflow Automation |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🛠️ TECH STACK                                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css&theme=dark" />
 </p>
 
-## 🚀 About Me
-- 🌱 I’m currently learning **Advanced Data Science & Modern Web Frameworks**
-- 💬 Ask me about **Python, JavaScript, and Web Development**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I love building things that live on the internet!**
+### ⚡ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" />
+</p>
 
-## 🛠️ Languages and Tools
-<div align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  
-  <br />
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  
-  <br />
+### 🧠 AI / ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
 
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws,docker&theme=dark" />
+</p>
+
+### 🔧 Dev Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" />
+</p>
+
 </div>
 
-## 📊 GitHub Stats
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS                                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Gupta-9165&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<!-- STATS + STREAK SIDE BY SIDE -->
+<a href="https://github.com/Priyanshu-Gupta-9165">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Priyanshu-Gupta-9165&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9&ring_color=f85d7f&count_private=true" />
+</a>
+<a href="https://github.com/Priyanshu-Gupta-9165">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Priyanshu-Gupta-9165&theme=radical&hide_border=true&background=0d1117&stroke=f85d7f&ring=f85d7f&fire=f8d866&currStreakLabel=f85d7f&sideLabels=c9d1d9&currStreakNum=f8d866&dates=8b949e" />
+</a>
+
+<br/><br/>
+
+<!-- TOP LANGUAGES -->
+<a href="https://github.com/Priyanshu-Gupta-9165">
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priyanshu-Gupta-9165&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&text_color=c9d1d9&langs_count=10" />
+</a>
+
+<br/><br/>
+
+<!-- 📈 ACTIVITY GRAPH -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Gupta-9165&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&area_color=f85d7f&hide_border=true&custom_title=📈%20Priyanshu's%20Contribution%20Activity" />
+
 </div>
 
-<br />
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏆 TROPHIES                                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements & Highlights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Gupta-9165&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/🤖_AI_Projects-5+-f85d7f?style=for-the-badge&labelColor=1a1b27" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🌐_Web_Apps-10+-a855f7?style=for-the-badge&labelColor=1a1b27" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📦_Repositories-27+-f8d866?style=for-the-badge&labelColor=1a1b27" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/⭐_Total_Stars-5+-38bdf8?style=for-the-badge&labelColor=1a1b27" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🔥_Contributions-215+-ff6e40?style=for-the-badge&labelColor=1a1b27" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎓_Open_Source-Contributor-34d399?style=for-the-badge&labelColor=1a1b27" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/💡_Problem_Solver-Always-c084fc?style=for-the-badge&labelColor=1a1b27" />
 </div>
 
-<br />
+<br/>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🚀 FEATURED PROJECTS                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Gupta-9165&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<a href="https://github.com/Priyanshu-Gupta-9165/Smart-Academic-Helper">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Priyanshu-Gupta-9165&repo=Smart-Academic-Helper&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Priyanshu-Gupta-9165/Coursera-Automation">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Priyanshu-Gupta-9165&repo=Coursera-Automation&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Priyanshu-Gupta-9165/Numerical-Methods-Python">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Priyanshu-Gupta-9165&repo=Numerical-Methods-Python&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Priyanshu-Gupta-9165/MazeGame-with-Pathfinding-Algorithms">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Priyanshu-Gupta-9165&repo=MazeGame-with-Pathfinding-Algorithms&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Priyanshu-Gupta-9165/AI-Prompt-Enhancer-">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Priyanshu-Gupta-9165&repo=AI-Prompt-Enhancer-&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/Priyanshu-Gupta-9165/Priyanshu-Portfolio">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Priyanshu-Gupta-9165&repo=Priyanshu-Portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=f85d7f&icon_color=f8d866&text_color=c9d1d9" />
+</a>
+
 </div>
 
-## 🌐 Connect with me
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎵 NOW PLAYING - SPOTIFY/CODING VIBES                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Coding Vibes
+
 <div align="center">
-  <a href="https://linkedin.com/in/Priyanshu-Gupta-9165" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+```
+🎧 while (coding) {
+    coffee.drink();
+    bugs.fix();
+    features.ship();
+    repeat();
+}
+```
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📬 CONNECT WITH ME                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Let's Connect & Collaborate!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-gupta-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- Update the Twitter and Portfolio links to your own if you have them -->
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  &nbsp;
+  <a href="https://github.com/Priyanshu-Gupta-9165" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+  &nbsp;
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://github.com/Priyanshu-Gupta-9165/Priyanshu-Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<!-- 💬 RANDOM DEV QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br/>
+
+<!-- 🐍 CONTRIBUTION SNAKE -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshu-Gupta-9165/Priyanshu-Gupta-9165/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshu-Gupta-9165/Priyanshu-Gupta-9165/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Priyanshu-Gupta-9165/Priyanshu-Gupta-9165/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- 🌊 ANIMATED GRADIENT FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
+
+<!-- SECRET SECTION -->
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-f85d7f?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-f8d866?style=for-the-badge&labelColor=1a1b27" />
+  
+  <br/><br/>
+  
+  **💖 If you like my work, consider starring ⭐ some of my repos — it keeps me motivated!**
+
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=40&section=header&text=Thanks%20for%20visiting!%20🙏&fontSize=16&fontColor=ffffff" />
+  
 </div>
