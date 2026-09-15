@@ -277,8 +277,6 @@
 
 <br/>
 
-<!-- 🌊 ANIMATED GRADIENT FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
 
 <!-- SECRET SECTION -->
 <div align="center">
@@ -295,3 +293,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=40&section=header&text=Thanks%20for%20visiting!%20🙏&fontSize=16&fontColor=ffffff" />
   
 </div>
+
+<!-- 🌊 ANIMATED GRADIENT FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
