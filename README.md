@@ -81,11 +81,7 @@
 
 <br/>
 
-<!-- 📈 ACTIVITY GRAPH -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Gupta-9165&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
-</div>
 
-<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
